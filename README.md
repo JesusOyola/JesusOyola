@@ -25,7 +25,7 @@
 
 ---
 ### 💻 Open Source Work Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusOyola)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusOyola)]([https://github.com/JesusOyola)]
 
 ---
 ### You can find in me🌍
