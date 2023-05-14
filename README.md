@@ -5,7 +5,6 @@
 🌱 Things I am currently working on:
 - Finish my introductory course front end
 - Taking courses about Full Stack
-- Coding Bootcamp 🚀 coming soon
 
 💪 Things I am challenging myself with:
 - Learning English
