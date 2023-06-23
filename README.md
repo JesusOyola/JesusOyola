@@ -1,10 +1,19 @@
 ### Hi I´m Jesus, I´m a Fullstack Developer 👋
 
+
+I am an experienced Full-stack developer, I have +2 years experience work with JavaScript, Typescript.
+
+My favourite technologies it's an Angular. I have also experience with Node.js, SQL, Mysql, work with API any service and create own RESTfull API
+
+If you have any questions, don't hesitate to leave a message Cheers!
+
 🌱 Frontend : Angular, Vue.
 🔭 Backend :  Node.js, Express.
 🧩 Database : MySQL, Postgres.
 💬 Language : HTML, CSS, Javascript, Typescript.
 📫 Interesting : Java
+
+
 
 
 
