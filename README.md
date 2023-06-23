@@ -1,10 +1,4 @@
-### Hi I´m Jesus 👋
-
-
-
-🌱 Things I am currently working on:
-- Finish my introductory course front end
-- Taking courses about Full Stack
+### Hi I´m Jesus, I´m a Fullstack Developer 👋
 
 💪 Things I am challenging myself with:
 - Learning English
