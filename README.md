@@ -1,9 +1,10 @@
 ### Hi I´m Jesus, I´m a Fullstack Developer 👋
 
-💪 Things I am challenging myself with:
-- Learning English
-- Coding at least 4 hours a day, learning everything about Frontend and Backend technologies 
-- Exercising 3 days a week
+🌱 Frontend : Angular, Vue.
+🔭 Backend :  Node.js, Express.
+🧩 Database : MySQL, Postgres.
+💬 Language : HTML, CSS, Javascript, Typescript.
+📫 Interesting : Java
 
 
 
