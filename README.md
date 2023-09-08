@@ -32,6 +32,7 @@ If you have any questions, don't hesitate to leave a message Cheers!
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40" style="max-width: 100%;"></p>
 
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=JesusOyola&show_icons=true)
 
 
 
