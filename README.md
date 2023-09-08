@@ -7,10 +7,10 @@ My favourite technologies it's an Angular. I have also experience with Node.js, 
 
 If you have any questions, don't hesitate to leave a message Cheers!
 
-🌱 Frontend : Angular, Vue.
+🌱 Frontend : Angular.
 🔭 Backend :  Node.js, Express.
-🧩 Database : MySQL, Postgres.
-💬 Language : HTML, CSS, Javascript, Typescript.
+🧩 Database : MySQL, PostgresSQL.
+💬 Language : Javascript, Typescript.
 📫 Interesting : Java
 
 
