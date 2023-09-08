@@ -34,6 +34,8 @@ If you have any questions, don't hesitate to leave a message Cheers!
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=JesusOyola&show_icons=true)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JesusOyola&label=Profile%20views&color=0e75b6&style=flat" alt="mauro069" /> </p>
+
 
 
 ---
